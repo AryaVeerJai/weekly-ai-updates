@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Feb 16 09:45:04 UTC 2026
+Last updated: Mon Feb 23 09:46:29 UTC 2026
 
 - NYT &gt; Technology
-- Homeland Security Demands Social Media Sites Reveal Names Behind Anti-ICE Posts
-- Meta Plans to Add Facial Recognition Technology to Its Smart Glasses
-- Iran Turns to Digital Surveillance Tools to Track Down Protesters
-- ‘Something Big Is Happening’ + A.I. Rocks the Romance Novel Industry + One Good Thing
+- People Loved the Dot-Com Boom. The A.I. Boom, Not So Much.
+- A.I. Isn’t Coming for Every White-Collar Job. At Least Not Yet.
+- West Virginia Sues Apple, Claiming It Allows Sharing of Child Sexual Abuse Material
+- The Pentagon vs. Anthropic + An A.I. Agent Slandered Me + Hot Mess Express
