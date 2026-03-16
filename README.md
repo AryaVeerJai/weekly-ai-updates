@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Mar  9 09:41:36 UTC 2026
+Last updated: Mon Mar 16 09:58:10 UTC 2026
 
 - NYT &gt; Technology
-- OpenAI’s Fog of War + Betting on Iran + Hard Fork Review of Slop
-- Pentagon Officially Notifies Anthropic It Is a ‘Supply Chain Risk’
-- S.E.C. Settles Its Case Against Justin Sun, an Investor in the Trumps’ Crypto Coins
-- Demand for AI Data Centers Sends Prospectors Hunting for Land and Power
+- U.S. Tech Giants Flocked to the Persian Gulf. Now They Are Targets.
+- Meta Delays Rollout of New A.I. Model After Performance Concerns
+- A.I. Chatbots Want Your Health Records. Tread Carefully.
+- A.I. Goes to War + Is ‘A.I. Brain Fry’ Real? + How Grammarly Stole Casey’s Identity
