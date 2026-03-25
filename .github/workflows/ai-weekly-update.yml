@@ -34,7 +34,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          git config user.name "Jai Prakash Kumar"
+          git config user.name "AryaVeerJai"
           git config user.email "aryansingh879791@gmail.com"
           git add README.md
           git commit -m "Weekly AI update"
