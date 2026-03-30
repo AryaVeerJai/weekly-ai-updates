@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Mar 23 09:56:44 UTC 2026
+Last updated: Mon Mar 30 10:10:14 UTC 2026
 
 - NYT &gt; Technology
-- More! More! More! Tech Workers Max Out Their A.I. Use.
-- Polymarket Says It Deals in Truth, but Its Social Feeds Are Filled With Falsehoods
-- White House Unveils A.I. Policy Aimed at Blocking State Laws
-- ‘A.I.-Washing’ Layoffs? + Why L.L.M.s Can’t Write Well + Tokenmaxxing
+- Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones
+- Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’
+- An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry
+- The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran
