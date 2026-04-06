@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Mar 30 10:10:14 UTC 2026
+Last updated: Mon Apr  6 10:02:51 UTC 2026
 
 - NYT &gt; Technology
-- Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones
-- Judge Stays Pentagon’s Labeling of Anthropic as ‘Supply Chain Risk’
-- An Invisible Bottleneck: A Helium Shortage Threatens the Chip Industry
-- The Clues Binance Missed That Led to Billions in Crypto Flowing to Iran
+- Big Banks Seeking a Piece of SpaceX’s I.P.O. Must Subscribe to Elon Musk’s Grok
+- OpenAI Buys Streaming Show ‘TBPN,’ Aiming to Change Narrative on A.I.
+- How A.I. Helped One Man (and His Brother) Build a $1.8 Billion Company
+- The Future of Addictive Design + Going Deep at DeepMind + HatGPT
