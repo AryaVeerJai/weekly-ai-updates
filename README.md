@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Apr 13 10:27:06 UTC 2026
+Last updated: Mon Apr 20 10:29:13 UTC 2026
 
 - NYT &gt; Technology
-- The Escalating Global A.I. Arms Race
-- Molotov Cocktail Is Hurled at Home of Sam Altman, OpenAI’s CEO
-- Have You Used A.I. Chatbots for Nutrition Advice?
-- Elon Musk, Who Owns X, Appears to Post on TikTok
+- White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise
+- How Do You Measure an A.I. Boom?
+- Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up
+- Hundreds of Fake Pro-Trump Avatars Emerge on Social Media
