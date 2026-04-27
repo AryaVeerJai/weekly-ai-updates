@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Apr 20 10:29:13 UTC 2026
+Last updated: Mon Apr 27 10:55:59 UTC 2026
 
 - NYT &gt; Technology
-- White House and Anthropic Hold ‘Productive’ Meeting, Aiming for a Compromise
-- How Do You Measure an A.I. Boom?
-- Cerebras, an A.I. Chip Maker, Files to Go Public as Tech Offerings Ramp Up
-- Hundreds of Fake Pro-Trump Avatars Emerge on Social Media
+- How Elon Musk Used SpaceX to Benefit Himself and His Businesses
+- Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money
+- 5 Tall Tasks for John Ternus, Apple’s Next C.E.O.
+- After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online
