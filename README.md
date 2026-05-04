@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Apr 27 10:55:59 UTC 2026
+Last updated: Mon May  4 10:59:03 UTC 2026
 
 - NYT &gt; Technology
-- How Elon Musk Used SpaceX to Benefit Himself and His Businesses
-- Sam Altman’s Next High-Wire Act: Getting OpenAI to Make More Money
-- 5 Tall Tasks for John Ternus, Apple’s Next C.E.O.
-- After Correspondents Dinner Shooting, Rumors and Conspiracy Theories Swirl Online
+- Why So Many People Already Own Shares of Elon Musk’s SpaceX
+- Pentagon Makes Deals With A.I. Companies to Expand Classified Work
+- Elon Musk’s A.I. Claims of Danger Face Limits in OpenAI Trial
+- Struggling With Phone Addiction? Try These Remedies.
