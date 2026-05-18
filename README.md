@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon May 11 11:59:03 UTC 2026
+Last updated: Mon May 18 12:22:59 UTC 2026
 
 - NYT &gt; Technology
-- Meta’s Embrace of A.I. Is Making Its Employees Miserable
-- Five Ways A.I. Search Beats an Old-School Google Search
-- Elon Musk’s SpaceX Plans $55 Billion Investment to Make A.I. Chips
-- Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI
+- OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case
+- Ishmael Reed Is Writing a Play About Elon Musk
+- Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up
+- Why A.I. Safety Controls Are Not Very Effective
