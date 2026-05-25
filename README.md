@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon May 18 12:22:59 UTC 2026
+Last updated: Mon May 25 12:20:54 UTC 2026
 
 - NYT &gt; Technology
-- OpenAI Trial Heads to Jury After Closing Arguments in Musk vs. Altman Case
-- Ishmael Reed Is Writing a Play About Elon Musk
-- Cerebras, A.I. Chip Maker, Rises 89% in Market Debut as Tech IPOs Ramp Up
-- Why A.I. Safety Controls Are Not Very Effective
+- UK Institute Is Hunting for Dangers Lurking in AI
+- One Job That Is Growing in the A.I. Era? Cybersecurity Experts.
+- Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update
+- Sundar Pichai Understands Why People Are Anxious About A.I.
