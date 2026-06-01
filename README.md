@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon May 25 12:20:54 UTC 2026
+Last updated: Mon Jun  1 14:53:13 UTC 2026
 
 - NYT &gt; Technology
-- UK Institute Is Hunting for Dangers Lurking in AI
-- One Job That Is Growing in the A.I. Era? Cybersecurity Experts.
-- Our Field Trip to Google I/O + A Sit-Down With Sundar Pichai + System Update
-- Sundar Pichai Understands Why People Are Anxious About A.I.
+- How Box Created 13 New Types of Jobs Because of A.I.
+- Is A.I. Replacing Tech Workers or Providing an Excuse for Job Cuts?
+- China Aims A.I. at Predicting Who Could Pose a Political Risk
+- Nvidia Has a Plan to Put Its Chips in Personal Computers
