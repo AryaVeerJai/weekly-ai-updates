@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Jun 22 14:29:14 UTC 2026
+Last updated: Mon Jun 29 12:59:33 UTC 2026
 
 - NYT &gt; Technology
-- Tech Workers Maxed Out Their A.I. Use. Now They’re Trying to Minimize It.
-- New Super PAC, the Guardrails Alliance, Aims to Rally Tech Workers to Help Limit A.I.
-- Trump Says Apple to Buy Computer Chips from Intel
-- Amazon Retaliated Against Workers Who Supported Regulating Data Centers, Complaint Says
+- Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi
+- Intel’s Chip Business Shows Signs of Life After Years of Struggle
+- How a Niche Technology Became a Choke Point for A.I.
+- Chinese A.I. Models Gain Ground on Anthropic and OpenAI
