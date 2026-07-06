@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Jun 29 12:59:33 UTC 2026
+Last updated: Mon Jul  6 12:39:22 UTC 2026
 
 - NYT &gt; Technology
-- Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi
-- Intel’s Chip Business Shows Signs of Life After Years of Struggle
-- How a Niche Technology Became a Choke Point for A.I.
-- Chinese A.I. Models Gain Ground on Anthropic and OpenAI
+- The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’
+- U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models
+- Bending Spoons, Owner of AOL and Other Old Internet Brands, Is Going Public
+- Neon Buys ‘Artificial,’ a Film About OpenAI, After Amazon Dropped It
