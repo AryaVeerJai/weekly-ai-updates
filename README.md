@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Jul 13 11:54:17 UTC 2026
+Last updated: Mon Jul 20 11:37:55 UTC 2026
 
 - NYT &gt; Technology
-- Apple Sues OpenAI, Accusing It of Stealing Company Secrets
-- Meta Removes A.I. Feature on Instagram After Days of Backlash
-- Meta Ordered by E.U. to Alter ‘Addictive Design’ of Instagram and Facebook
-- Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time
+- The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour
+- Politicians Are Trying to Change What Chatbots Say About Them
+- China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead
+- The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT
