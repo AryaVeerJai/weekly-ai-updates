@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Aug 31 16:34:46 UTC 2026
+Last updated: Mon Sep  7 14:39:02 UTC 2026
 
 - NYT &gt; Technology
-- How Meta’s $17.1 Billion Social Media Settlement Came Together
-- Social Media and the Myth of the Big Tobacco Moment
-- Prediction Markets and States Clashed, Setting Off a Furious Political Battle
-- Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.
+- Kenyans Made a Living Writing College Essays. Then A.I. Arrived.
+- How a Blacklisted Chinese Tech Giant Kept Buying America’s Best A.I. Chips
+- Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports
+- Why the Hugging Face Hack Should Make You Worry More About A.I.
