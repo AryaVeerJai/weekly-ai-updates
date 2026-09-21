@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Sep 14 15:31:34 UTC 2026
+Last updated: Mon Sep 21 15:31:49 UTC 2026
 
 - NYT &gt; Technology
-- Some in Silicon Valley Are Questioning the Calls for an A.I. Slowdown
-- Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown
-- What Anthropic CEO Dario Amodei Argued in His Call for AI Slowdown
-- Inside the Discussions at AI Companies Over a Superintelligence Doomsday
+- This A.I. House Can Provide You With Connections. It Also Has a Dark Side.
+- In China, A.I. Is Moving Forward While the Economy Lags Behind
+- Gemini AI Hacked Three Companies in a Testing Breakout, Google Says
+- Anthropic Pursues IPO Despite Its A.I. Safety Warnings
