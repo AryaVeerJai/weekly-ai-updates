@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Sep 21 15:31:49 UTC 2026
+Last updated: Mon Sep 28 17:13:28 UTC 2026
 
 - NYT &gt; Technology
-- This A.I. House Can Provide You With Connections. It Also Has a Dark Side.
-- In China, A.I. Is Moving Forward While the Economy Lags Behind
-- Gemini AI Hacked Three Companies in a Testing Breakout, Google Says
-- Anthropic Pursues IPO Despite Its A.I. Safety Warnings
+- Nvidia Adds $150 Billion to Massive Stock Buyback, the Largest Ever
+- Dario Amodei of Anthropic to Dine With Trump at White House
+- As A.I. Accelerates, Governments Are Increasingly Being Left Behind
+- OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites
