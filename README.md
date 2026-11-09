@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Nov  2 19:00:01 UTC 2026
+Last updated: Mon Nov  9 19:23:15 UTC 2026
 
 - NYT &gt; Technology
-- Inside Anthropic’s Hunt for A.I. Computing Power
-- Anthropic Reveals $17 Billion in Revenue as I.P.O. Approaches
-- How A.I. Is Making It Easier Than Ever to Microtarget Voters
-- In San Francisco’s A.I. Boom, a First Date Has Become an Interview
+- Nvidia Opens Investigation Into Jensen Huang’s Relationship With Suspected Chinese Spy
+- Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy
+- Microsoft’s Buyout Offer Sets Its Workforce on Edge
+- What Shaped Anthropic CEO Dario Amodei’s Thinking on A.I.
