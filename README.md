@@ -1,9 +1,9 @@
 # 🤖 Weekly AI Updates
 
-Last updated: Mon Nov 16 19:06:50 UTC 2026
+Last updated: Mon Nov 23 20:45:34 UTC 2026
 
 - NYT &gt; Technology
-- How Jensen Huang’s Secret Led to His Downfall at Nvidia
-- The Jensen Huang Scandal Has Shocked Even Scandal-Prone Silicon Valley
-- Tech Leaders Rally Behind Jensen Huang
-- Inside Microsoft’s Rush to Get Back Online After a Global Outage
+- Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.
+- Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley
+- How Jensen Huang Made Humiliation Routine at Nvidia
+- G.T.A. VI Is a Monumental Human Achievement
